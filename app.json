@@ -1,7 +1,7 @@
 {
     "name": "end-to-end-enc-chat",
     "description": "Chat app with end-to-end encryption",
-    "repository": "https://github.com/pskrunner14/end-to-end-enc-chat",
+    "repository": "https://github.com/pushansingh/E3ChatBox",
     "keywords": [
         "node",
         "express",
