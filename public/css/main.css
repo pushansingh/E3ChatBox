@@ -5,13 +5,13 @@ body {
 h2 {
     font-size: 18px;
     padding: 10px 20px;
-    color: #575ed8;
+    color: #8a0c19;
 }
 
 #main-chat {
     max-width: 600px;
     margin: 30px auto;
-    border: 1px solid #ddd;
+    border: 1px solid rgb(39, 12, 92);
     box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.05);
     border-radius: 2px;
 }
