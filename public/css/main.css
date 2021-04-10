@@ -5,7 +5,7 @@ body {
 h2 {
     font-size: 18px;
     padding: 10px 20px;
-    color: #8a0c19;
+    color: #FDDC5C    ;
 }
 
 #main-chat {
@@ -19,7 +19,7 @@ h2 {
 #chat-window {
     height: 400px;
     overflow: auto;
-    background: #f9f9f9;
+    background: #BDF6FE;
 }
 
 #output p {
@@ -59,7 +59,7 @@ input {
 }
 
 button {
-    background: #575ed8;
+    background: #13BBAF;
     color: #fff;
     font-size: 18px;
     border: 0;
