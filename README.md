@@ -5,7 +5,7 @@ This project is made to show EEE or End to End encryption in the chatbox. This i
 To successfully deploy this package we need basic encryption knowledge and also some cloud computing knowledge, apart from that we would require some basic programming skills.
 # End-to-End Encrypted Chat
 
-[![Demo on Heroku](./images/demo.svg)](https://aeschat.herokuapp.com/) 
+[![Demo on Heroku]](https://aeschat.herokuapp.com/) 
 
 This is a node chat application with end-to-end encryption. It uses [AES-256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) and [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) encryption algorithms under the hood. You can either see the *demo* of the app using the button above or alternatively, you can *deploy* your own copy of the app using this button:
 
